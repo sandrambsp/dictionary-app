@@ -1,10 +1,11 @@
-.Meaning {
-  border-radius: 10px;
-  background: radial-gradient(
-    907px at 3.4% 19.8%,
-    rgba(253, 169, 13, 0.205) 0%,
-    rgba(255, 244, 122, 0.171) 97.4%
-  );
-  padding: 30px;
-  margin-bottom: 10px;
+.Meaning h3 {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+.Meaning .example {
+  font-size: 15px;
+  opacity: 0.6;
+  font-style: italic;
+  margin-top: 5px;
 }

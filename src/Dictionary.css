@@ -4,19 +4,17 @@
   margin-bottom: 10px;
 }
 
-.Dictionary .input-search {
+.Dictionary input {
   border-radius: 5px;
   width: 100%;
   padding: 10px;
+  color: #32b7f5;
 }
 
-.Dictionary form {
+.Dictionary section {
   border-radius: 10px;
-  background: radial-gradient(
-    907px at 3.4% 19.8%,
-    rgba(253, 169, 13, 0.205) 0%,
-    rgba(255, 244, 122, 0.171) 97.4%
-  );
+  background: #e2f2ff;
   padding: 40px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+  box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.2);
 }
