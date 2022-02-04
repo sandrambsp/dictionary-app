@@ -11,7 +11,23 @@ function App() {
         <main>
           <Dictionary defaultKeyword="ocean" />
         </main>
-        <footer className="text-center">Coded by Sandra Pereira</footer>
+        <footer className="text-center">
+          This project was coded by{" "}
+          <a
+            href="https://compassionate-wright-ee6f12.netlify.app/"
+            target="_blank"
+          >
+            Sandra Pereira
+          </a>{" "}
+          and it is{" "}
+          <a
+            href="https://github.com/sandrambsp/dictionary-app"
+            target="_blankS"
+          >
+            open-sourced on Github
+          </a>
+          .
+        </footer>
       </div>
     </div>
   );
