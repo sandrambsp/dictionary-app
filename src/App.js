@@ -16,13 +16,15 @@ function App() {
           <a
             href="https://compassionate-wright-ee6f12.netlify.app/"
             target="_blank"
+            rel="noreferrer"
           >
             Sandra Pereira
           </a>{" "}
           and it is{" "}
           <a
             href="https://github.com/sandrambsp/dictionary-app"
-            target="_blankS"
+            target="_blank"
+            rel="noreferrer"
           >
             open-sourced on Github
           </a>
