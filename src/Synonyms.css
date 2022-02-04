@@ -7,3 +7,9 @@
   padding-right: 15px;
   font-size: 14px;
 }
+
+@media (max-width: 576px) {
+  .Synonyms li {
+    font-size: 13px;
+  }
+}

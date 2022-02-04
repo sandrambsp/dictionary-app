@@ -1,7 +1,7 @@
 .App {
   display: block;
   margin: 0 auto;
-  width: 70%;
+  width: 80%;
 }
 .App h1 {
   margin: 30px 0;
@@ -10,4 +10,13 @@
 .App footer {
   font-size: 16px;
   margin: 20px 0;
+}
+
+@media (max-width: 576px) {
+  .App {
+    width: 90%;
+  }
+  .App footer {
+    font-size: 12px;
+  }
 }

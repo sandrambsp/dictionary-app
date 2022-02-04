@@ -18,3 +18,17 @@
   margin-bottom: 20px;
   box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.2);
 }
+
+@media (max-width: 576px) {
+  .Dictionary label {
+    font-size: 15px;
+  }
+
+  .Dictionary input {
+    padding: 8px 5px;
+  }
+
+  .Dictionary section {
+    padding: 30px 20px;
+  }
+}
