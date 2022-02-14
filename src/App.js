@@ -14,7 +14,7 @@ function App() {
         <footer className="text-center">
           This project was coded by{" "}
           <a
-            href="https://my-portfolio-smbsp.netlify.app/"
+            href="https://www.sandrapereira.me/"
             target="_blank"
             rel="noreferrer"
           >
